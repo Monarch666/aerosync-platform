@@ -1,10 +1,5 @@
 # AeroSync — Satellite Ground Station
 
-> **Professional satellite tracking platform by [Wingspann Global Pvt Ltd](https://wingspann.com)**  
-> MIT License · Python 3.10+ · Next.js 16 · Real-time · No hardware required
-
----
-
 ## Features
 
 | Feature | Description |
